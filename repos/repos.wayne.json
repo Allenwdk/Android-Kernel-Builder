@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Wayne_KenrlSU_Google",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "markw_oc",
+      "repo": "https://github.com/Allenwdk/android_kernel_xiaomi_markw-4.9.git",
+      "branch": "master",
+      "device": "markw",
+      "defconfig": ""
     },
     "withKernelSU": false,
     "toolchains": [
